@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class min {
+public class MinNoInArray {
 
 	public static void main(String[] args) {
 		

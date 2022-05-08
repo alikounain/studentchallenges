@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class StringPalindrome {
 
 	public static void main(String[] args) {
@@ -10,7 +11,7 @@ public class StringPalindrome {
 		String rev="";
 		for (int i=(str.length()-1);i>=0;--i) {
 			rev=rev+str.charAt(i);
-			System.out.print(str.charAt(i));
+//			System.out.print(str.charAt(i));
 		}
 		if (str.toLowerCase().equals(rev.toLowerCase()))
 			System.out.println("is palidrome");
@@ -28,7 +29,7 @@ public class StringPalindrome {
 //			j--;
 //			break;
 //		}
-
+//		System.out.println(str.matches("ab"));
 		sc.close();
 	}
 }
