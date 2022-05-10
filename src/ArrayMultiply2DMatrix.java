@@ -1,5 +1,5 @@
 
-public class Multiply2DMatrix {
+public class ArrayMultiply2DMatrix {
 
 	public static void main(String[] args) {
 		int a[][]= {{1,2,3},{3,8,1},{1,2,3}};

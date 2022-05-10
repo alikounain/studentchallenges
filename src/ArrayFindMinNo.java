@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MinNoInArray {
+public class ArrayFindMinNo {
 
 	public static void main(String[] args) {
 		
