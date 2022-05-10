@@ -1,4 +1,4 @@
-package com.dk;
+package stack;
 
 public class MyStack {
 	private int []array;

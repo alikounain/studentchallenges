@@ -1,5 +1,6 @@
-package com.dkhan;
+package queue;
 
+@SuppressWarnings("serial")
 public class UnderFlowException extends Exception {
 	
 	@Override

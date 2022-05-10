@@ -1,4 +1,4 @@
-package com.dk;
+package stack;
 
 public class Main {
 

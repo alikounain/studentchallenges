@@ -1,5 +1,6 @@
-package com.dk;
+package stack;
 
+@SuppressWarnings("serial")
 public class OverFlowException extends Exception {
 
 	@Override

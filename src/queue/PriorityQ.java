@@ -1,4 +1,4 @@
-package com.dkhan;
+package queue;
 
 public class PriorityQ {
 	

@@ -1,8 +1,9 @@
-package com.dkhan;
+package queue;
 
-import com.dkhan.OverFlowException;
-import com.dkhan.UnderFlowException;
+import queue.OverFlowException;
+import queue.UnderFlowException;
 
+@SuppressWarnings("unused")
 public class Main {
 
 	public static void main(String[] args) {
